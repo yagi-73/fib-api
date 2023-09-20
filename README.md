@@ -1,6 +1,8 @@
 # Fibonacci API
-
 このプロジェクトは、Fibonacci数列を計算するためのシンプルなRESTful APIです。
+
+## エンドポイントURL
+https://fibonacci-api-jqpp.onrender.com/fib?n=<計算したい数>
 
 ## ソースコードの構成
 このアプリケーションのソースコードは主に以下の部分で構成されています。
@@ -28,9 +30,8 @@ cd fibonacci-api
 docker-compose up -d --build
 ```
 3. ブラウザやAPIクライアントを使用して、以下のエンドポイントにアクセスしてください。n番目のフィボナッチ数を返します。
-```
 http://localhost:8080/fib?n=<計算したい数>
-```
+
 <br>
 
 ## テストの実行
