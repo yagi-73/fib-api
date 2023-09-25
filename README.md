@@ -1,9 +1,6 @@
 # Fibonacci API
 このプロジェクトは、Fibonacci数列を計算するためのシンプルなRESTful APIです。
 
-## エンドポイントURL
-https://fibonacci-api-jqpp.onrender.com/fib?n=<計算したい数>
-
 ## ソースコードの構成
 このアプリケーションのソースコードは主に以下の部分で構成されています。
 
